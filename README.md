@@ -24,7 +24,7 @@ Excel / SQL (if connected as data sources)
 
 🚀 How to Use
 Download this repository or clone it:
-git clone https://github.com/your-username/PowerBI-Project.git
+git clone https://github.com/KasleHariom/PowerBI-Project.git
 Open the file PowerBI Project.pbix in Power BI Desktop.
 Explore the dashboard using filters, slicers, and interactive visuals.
 Modify or connect to your own dataset for customization.
