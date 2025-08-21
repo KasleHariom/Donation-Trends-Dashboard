@@ -1,5 +1,6 @@
 # Donation-Trends-Dashboard
 
+
 📌 Overview
 
 This project is an interactive Power BI dashboard built to analyze and visualize key business metrics. It transforms raw data into meaningful insights using powerful data visualization techniques.
@@ -16,6 +17,7 @@ Designing interactive dashboards with filters, slicers, and visuals
 
 This project is ideal for learning Business Intelligence (BI) and showcasing data storytelling skills.
 
+
 🎯 Features:
 
 Data Cleaning & Modeling – Data loaded and structured in Power BI with proper relationships.
@@ -28,6 +30,7 @@ Visuals Used – Bar Charts, Line Charts, Pie Charts, Cards, Tables, and more.
 
 User-Friendly Dashboard – Easy to navigate and understand at a glance.
 
+
 🗂️ Technologies Used:
 
 Power BI Desktop
@@ -37,6 +40,7 @@ DAX (Measures & Calculated Columns)
 Data Modeling (Star Schema / Relationships)
 
 Excel / SQL (if connected as data sources)
+
 
 🚀 How to Use:
 
@@ -50,6 +54,7 @@ Explore the dashboard using filters, slicers, and interactive visuals.
 
 Modify or connect to your own dataset for customization.
 
+
 📊 Possible Use Cases:
 
 Business Sales Analysis
@@ -59,6 +64,7 @@ Donation/Healthcare Analytics
 Student Data & Academic Performance Tracking
 
 Any dataset that needs visualization and insight generation
+
 
 🔮 Future Enhancements:
 
@@ -70,9 +76,11 @@ Connect live to a SQL database for auto-refreshing data
 
 Embed the dashboard into a web application
 
+
 🤝 Contributing:
 
 Contributions are welcome! If you’d like to improve visuals, add new measures, or connect more datasets, feel free to fork and submit a pull request.
+
 
 📜 License:
 
