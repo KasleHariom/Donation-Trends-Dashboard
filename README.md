@@ -76,6 +76,10 @@ Connect live to a SQL database for auto-refreshing data
 
 Embed the dashboard into a web application
 
+Dashboard :
+<img width="1330" height="736" alt="Screenshot 2025-08-30 180626" src="https://github.com/user-attachments/assets/7b52516a-36b1-4b7a-a973-36dc6d2fe6a4" />
+
+
 
 🤝 Contributing:
 
